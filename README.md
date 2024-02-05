@@ -6,7 +6,6 @@ I'm a passionate 2nd-year computer science student, eager to explore the world o
 - **Name:** Samreen Kaur
 - **Major:** Computer Science
 - **Year:** 2nd Year
-- **Languages:** Python, Java, C/C++. Currently learning smalltalk, rust, haskell and elixir.
 
 I am enthusiastic about exploring new advancements in the tech industry, particularly drawn to the fields of cybersecurity and cloud data management. 
 Additionally, I have a keen interest in various software roles, aiming to continually expand my knowledge and expertise in these areas.
